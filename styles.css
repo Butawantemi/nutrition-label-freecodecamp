@@ -10,13 +10,14 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-h1 {
-    font-weight: 800;
-}
-
 .label {
     border: 2px solid black;
     width: 270px;
     margin: 20px auto;
     padding: 0 7px;
+}
+
+h1 {
+    font-weight: 800;
+    margin: -4px 0;
 }
